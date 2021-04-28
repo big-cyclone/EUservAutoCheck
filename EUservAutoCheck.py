@@ -5,8 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 
 # 账号信息
-USERNAME = "bigcyclone25@gmail.com"
-PASSWORD = "Cl_810710525"
+USERNAME = ""
+PASSWORD = ""
 # 代理设置
 PROXIES = {
     "http": "http://192.168.50.131:8888",
